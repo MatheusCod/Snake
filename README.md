@@ -1,5 +1,5 @@
 # Snake
-Classical Snake game implementation build using Lua programming language and LÖVE 11.3 game engine. <br>
+Classical Snake game implementation build using Lua programming language and LÖVE 11.3 framework. <br>
 Version 01: Some improvements on the movement logic and in the game restart are needed.
 
 ## How to run the program
